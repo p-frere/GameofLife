@@ -1,5 +1,6 @@
 Conwasy's Game of Life
 Uses Java Swing
+Here's a pic -> https://github.com/p-frere/GameofLife/blob/master/gameOfLife.png
 
 Rules:
 Any live cell with fewer than two live neighbours dies, as if caused by underpopulation.
